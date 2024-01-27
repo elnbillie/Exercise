@@ -7,4 +7,4 @@ Currency Converter is app that convert a currency from a country to another one,
 - There's equation for each operation that happened in converting temperature
 - Real time price for currency
 - Exchange the currency in the box
-- Currency available only for this following country and cryptocurrency : JPY, USD, IDR, BTC
+- Currency available only for this following currency and cryptocurrency : JPY, USD, IDR, BTC
